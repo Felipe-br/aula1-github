@@ -1,0 +1,18 @@
+package entities;
+
+public class Students {
+
+	public String name;
+	public String email;
+	public String numQuarto;
+	
+	public Students(String name, String email, String numQuarto) {
+		
+		this.name = name;
+		this.email = email;
+		this.numQuarto = numQuarto;
+	}
+	
+	
+	
+}
